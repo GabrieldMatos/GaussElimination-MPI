@@ -1,4 +1,4 @@
-This is an implementation of a parallel algorithm using the Pthread C library for the resolution of linear systems using the gauss method.
+This is an implementation of a parallel algorithm using the MPI C library for the resolution of linear systems using the gauss method.
 
 **to compile**:
 
